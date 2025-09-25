@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RECCHIA Michel</h1>
-<h3 align="center">Professional Web Developer / Mobile Developer</h3>
+<h3 align="center">Professional Fullstack Developer / Mobile Developer</h3>
 
 <p>
   I'm a 21 years old French Developer who loves building things. I'm passionated about application architecture, automation and more globally DevOps.
